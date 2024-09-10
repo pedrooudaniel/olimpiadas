@@ -1,4 +1,4 @@
-## **DesvendandoA Atletas - Imersão DEV**
+## **Desvendando Atletas - Imersão DEV**
 
 ### **Busca Rápida e Fácil pelos Heróis Brasileiros nas Olimpíadas!** 
 
